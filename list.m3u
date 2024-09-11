@@ -18,7 +18,8 @@ https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="telefe-cordoba" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/512px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="Cordoba",Telefe Cordoba
 https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1723035604~acl=%2f*~data=hdntl~hmac=ba64f32a2f201edc8ac86914529a19f847a63df684a40415dbf9bc42109ab687/canal8cordoba0.m3u8
-
+#EXTINF:-1 tvg-id="canal-10" tvg-logo="http://imgfz.com/i/o6zPNnR.png" group-title="Cordoba",Canal 10
+https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 #EXTINF:-1 tvg-id="7-jujuy-telefe" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Interior",7 Jujuy [Telefe]
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="7-neuquen-telefe" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Interior",7 Neuquen [Telefe]
@@ -28,32 +29,46 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="9-litoral-eltrece" tvg-logo="https://i2.paste.pics/216f13d3a32f35802881b19c2fa39554.png" group-title="Interior",9 Litoral [El Trece]
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="10-mdq-eltrece" tvg-logo="http://imgfz.com/i/b7V6IoT.png" group-title="Interior",10 Mar del Plata [El Trece]
+https://g3.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
 #EXTINF:-1 tvg-id="el-ocho-telefe" tvg-logo="https://i.ibb.co/0yFbZj4/Captura.png" group-title="Interior",El Ocho [Telefe]
 https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-id="telefe-rosario" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Telefe_Rosario_%282018%29.png/512px-Telefe_Rosario_%282018%29.png" group-title="Interior",Telefe Rosario
 https://ythls.armelin.one/channel/UCPr0HEFKN8wtDIfcPsVB10Q.m3u8
 #EXTINF:-1 tvg-id="tn" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
-#EXTINF:-1 tvg-id="la-nacion-plus" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",La Nacion +
+#EXTINF:-1 tvg-id="la-nacion-plus" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",LN+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="c5n" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Noticias",C5N
 https://ythls.armelin.one/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
-#EXTINF:-1 tvg-id="cronica-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias",Crónica TV
+#EXTINF:-1 tvg-id="cronica-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticias",Cronica TV
 https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
-#EXTINF:-1 tvg-id="a24" tvg-logo=https://i.imgur.com/LnXQkIU.pngg" group-title="Noticias" user-agent="iPhone",A24
+#EXTINF:-1 tvg-id="a24" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticias" user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
 #EXTINF:-1 tvg-id="dnews" tvg-logo="https://i.imgur.com/jF2BabI.png" group-title="Noticias",DNews
 https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 #EXTINF:-1 tvg-id="canal-e" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Noticias",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="la-100" tvg-name="La 100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png" group-title="Radios", La 100
+#EXTINF:-1 tvg-id="la-100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png" group-title="Radios",La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="vorterix" tvg-name="Vorterix" tvg-logo="https://cdn.m3u.cl/logo/1373_Vorterix.png" group-title="Radios", Vorterix
-https://g4.vxral-slo.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true&PlaylistM3UCL
+#EXTINF:-1 tvg-id="vorterix" tvg-logo="https://cdn.m3u.cl/logo/1373_Vorterix.png" group-title="Radios",Vorterix
+https://g4.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="cadena-3" tvg-logo="http://imgfz.com/i/e7JR5aX.png" group-title="Radios",Cadena 3
+https://27383.live.streamtheworld.com/RADIO3.mp3
+#EXTINF:-1 tvg-id="cadena-heat" tvg-logo="http://imgfz.com/i/pNnPWIc.png" group-title="Radios",Cadena Heat
+https://26503.live.streamtheworld.com/CADENAHEAT.mp3?dist=c3-web
 #EXTINF:-1 tvg-id="ciudad-magazine" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Varios",Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="caras-tv" tvg-name="Caras TV" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" group-title="Varios", Caras TV
+#EXTINF:-1 tvg-id="caras-tv" tvg-logo="https://cdn.m3u.cl/logo/1603_Caras_TV.png" group-title="Varios",Caras TV
 https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="garage-tv" tvg-name="Garage TV" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png" group-title="Varios", Garage TV
+#EXTINF:-1 tvg-id="garage-tv" tvg-logo="https://cdn.m3u.cl/logo/282_Garage_TV.png" group-title="Varios",Garage TV
 https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
+
+
+
+
+
+
+
+
