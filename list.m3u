@@ -14,6 +14,10 @@ https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 http://204.199.3.2/.m3u8
 #EXTINF:-1 tvg-id="canal-10" tvg-logo="http://imgfz.com/i/o6zPNnR.png" group-title="Cordoba",Canal 10
 https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ciudad-magazine" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Entretenimiento",Ciudad Magazine
+https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
+#EXTINF:-1 tvg-id="caras-tv" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Entretenimiento",Caras TV
+https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="7-jujuy-telefe" tvg-logo="https://i.imgur.com/K0jk8p4.png" group-title="Interior",7 Jujuy [Telefe]
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="7-neuquen-telefe" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png" group-title="Interior",7 Neuquen [Telefe]
@@ -23,8 +27,12 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://g4.mc-slo.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/Playlist.m3u8
 #EXTINF:-1 tvg-id="9-litoral-eltrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Canal_9_Litoral_2021.png" group-title="Interior",9 Litoral [El Trece]
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
+#EXTINF:-1 tvg-id="10-mdq-eltrece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png" group-title="Interior",10 Mar del Plata [El Trece]
+https://g3.vxral-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
+#EXTINF:-1 tvg-id="el-ocho-telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/456px-Elocho_TV_nuevo_logo.png" group-title="Interior",El Ocho [Telefe]
+https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
 #EXTINF:-1 tvg-id="tn" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Noticias",TN
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+https://ythls.armelin.one/channel/UCj6PcyLvpnIRT_2W_mwa9Aw.m3u8
 #EXTINF:-1 tvg-id="la-nacion-plus" tvg-logo="https://i.imgur.com/Gj1kqH5.png" group-title="Noticias",LN+
 https://ythls.armelin.one/channel/UCba3hpU7EFBSk817y9qZkiA.m3u8
 #EXTINF:-1 tvg-id="c5n" tvg-logo="https://i.imgur.com/5ZNZYjO.png" group-title="Noticias",C5N
@@ -34,19 +42,25 @@ https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 #EXTINF:-1 tvg-id="a24" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/04/A24-en-vivo-online.png?resize=696%2C392&ssl=1" group-title="Noticias" user-agent="iPhone",A24
 #EXTVLCOPT:http-user-agent=iPhone
 https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056.m3u8
+#EXTINF:-1 tvg-id="dnews" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2022_07/large.2104566831_DIRECTVNEWS.png.e823c3855208a0becc09259b89c4408d.png" group-title="Noticias",DNews
+https://ythls.armelin.one/channel/UC4dWvSKVWJ36tJyhjDQCCaQ.m3u8
 #EXTINF:-1 tvg-id="canal-e" tvg-logo="https://i.ibb.co/y4pkxH3/Qtc8-M2-PG-400x400.jpg" group-title="Noticias",Canal E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ip-tv" tvg-logo="http://imgfz.com/i/GstNjZl.png" group-title="Noticias",IP Noticias
+https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
 #EXTINF:-1 tvg-id="la-100" tvg-logo="https://cdn.m3u.cl/logo/1470_La_100.png" group-title="Radios",La 100
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="vorterix" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.RecreacinVorterix(2024-).png.293f36613ed0266080564b2479d13f1c.png" group-title="Radios",Vorterix
-https://g4.vxral-slo.transport.edge-access.net/a08/ngrp:vorterix_video1-20057_all/Playlist.m3u8?sense=true
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
 #EXTINF:-1 tvg-id="cadena-3" tvg-logo="http://imgfz.com/i/5rtydpC.png" group-title="Radios",Cadena 3
-https://27383.live.streamtheworld.com/RADIO3.mp3
+https://ythls.armelin.one/video/UWUje3h7XLk.m3u8
 #EXTINF:-1 tvg-id="cadena-heat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cadena_Heat_Logo.png" group-title="Radios",Cadena Heat
-https://26503.live.streamtheworld.com/CADENAHEAT.mp3?dist=c3-web
-#EXTINF:-1 tvg-id="ciudad-magazine" tvg-logo="https://i.imgur.com/V1xZV72.png" group-title="Varios",Ciudad Magazine
-https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
-#EXTINF:-1 tvg-id="caras-tv" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2024_03/large.CarasTV(2024-).png.5c862ba2ecaa9a1b63a333cc526de8af.png" group-title="Varios",Caras TV
-https://unlimited2-cl-isp.dps.live/carastv/carastv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="garage-tv" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_2/large.gallery_5617_2_102815.png.a4bc960c1f68bea89c178b3b071ccd06.png" group-title="Varios",Garage TV
-https://stream1.sersat.com/hls/garagetv.m3u8?PlaylistM3UCL
+https://ythls.armelin.one/video/9MAF_mCH3xY.m3u8
+#EXTINF:-1 tvg-id="mitre" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/640px-Logo_Mitre_SA.svg.png" group-title="Radios",Mitre
+https://ythls.armelin.one/channel/UCYvINPByAdCcpA0sWrF3I_w.m3u8
+#EXTINF:-1 tvg-id="radio-10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Logo-radio10.svg/1200px-Logo-radio10.svg.png" group-title="Radios",Radio 10
+https://ythls.armelin.one/channel/UCJozD5RVug7EZdTjqkGISYQ.m3u8
+#EXTINF:-1 tvg-id="luzu-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/LuzuTV.png" group-title="Streaming",Luzu TV
+https://ythls.armelin.one/channel/UCTHaNTsP7hsVgBxARZTuajw.m3u8
+#EXTINF:-1 tvg-id="olga" tvg-logo="http://imgfz.com/i/0xg5cEz.png" group-title="Streaming",Olga
+https://ythls.armelin.one/channel/UC7mJ2EDXFomeDIRFu5FtEbA.m3u8
